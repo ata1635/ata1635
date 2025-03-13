@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ata1635)
+
+
 <!--
 **ata1635/ata1635** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
